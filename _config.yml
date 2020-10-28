@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Christian F. Baumgartner"
   avatar           : "me_c.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Incoming Independent Research Group Leader @ University of Tübingen, Germany"
   location         : "Zürich/Tübingen"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/christian-baumgartner-0162077b/"
+  linkedin         : "https://www.linkedin.com/in/christian-baumgartner-0162077b"
   orcid            : "https://orcid.org/0000-0002-3629-4384"
   pinterest        :
   soundcloud       :
