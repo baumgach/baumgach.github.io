@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /jobs/
 title: "Working with us"
 author_profile: true
 redirect_from:
