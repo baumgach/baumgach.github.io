@@ -76,3 +76,12 @@ massive and incredibly detailed datasets of patients suffering from diseases as 
 #### Selected publications
 
 **Christian F Baumgartner**, Lisa M Koch, Kerem Can Tezcan, Jia Xi Ang, Ender Konukoglu, [Visual feature attribution using Wasserstein GANs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baumgartner_Visual_Feature_Attribution_CVPR_2018_paper.pdf), Proc. CVPR 2018
+
+## Research Ethics
+
+I strongly believe in:
+
+ * Open publishing
+ * Papers with code
+ * Diversity in research
+ * Slowing down the research cycle 
