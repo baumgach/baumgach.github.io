@@ -32,10 +32,10 @@ to develop more robust algorithms, to better appreciate confidence bounds of
 predictive algorithms, and to understand the relationship between training data
 and algorithm performance. This will ultimately lead to algorithms that are more useful
 and easier to certify.
-2. Develop human-in-the-loop techniques, which optimally communicate prediction uncertainty
-to the operator,
+2. Developing methods with the human in mind (i.e. human-in-the-loop techniques),
+which optimally communicate prediction uncertainty to the operator,
 and allow them to interact with the algorithm during the prediction and
-training phase, in a life long learning setting.
+training phase.
 
 Specific research areas
 ======
