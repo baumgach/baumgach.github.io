@@ -6,9 +6,11 @@ redirect_from:
   - /research.html
 ---
 
-Ultimately, the goal of medical image analysis driven by machine learning is to
-obtain better patient outcomes. However, even though tremendous progress has been made
-in research settings, surprisingly little of this technology has leaked into
+What motivated me from the very beginning and what drew me into this field, is a desire
+to do something that has a tangible positive impact on society. What this means in the field I found myself in,
+the field of medical image analysis, is to ultimately obtain better patient outcomes
+by automating certain aspects of the clinical pipeline. However, even though tremendous
+progress has been made in research settings, surprisingly little of this technology has leaked into
 medical practice. One reason for this is that the medical domain is an
 extremely high-stakes application field with extraordinary demands on robustness
 of algorithms. A further complication is that it is very difficult and expensive to prove
@@ -19,16 +21,20 @@ On the other hand, doctors must be willing to use this technology and it must
 be integrated into clinical workflows in a useful way, a problem often not
 considered in pure research settings.
 
-I want to develop technologies that help bridge this gap
-between research and clinical practice. I believe two broad avenues to achieve
-this are:
+Therefore, in order to start harnessing the massive potential of machine learning
+for healthcare, and to actually use it to improve real patient outcomes,
+I aim to do research that helps to bridge this gap between research and
+clinical practice. I believe contributions are especially important in the
+following two broad areas:
+
 1. Developing machine learning methods that are founded in theory will allow us
 to develop more robust algorithms, to better appreciate confidence bounds of
 predictive algorithms, and to understand the relationship between training data
 and algorithm performance. This will ultimately lead to algorithms that are more useful
 and easier to certify.
-2. Develop human-in-the-loop techniques, which optimally communicate prediction uncertainty,
-and allow the operator to interact with the algorithm during the prediction and
+2. Develop human-in-the-loop techniques, which optimally communicate prediction uncertainty
+to the operator,
+and allow them to interact with the algorithm during the prediction and
 training phase, in a life long learning setting.
 
 Specific research areas
@@ -88,4 +94,4 @@ I strongly believe in:
  * Open publishing
  * Papers with code
  * Diversity in research
- * Slowing down the research cycle
+ * Slowing down the publishing cycle
