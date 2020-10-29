@@ -13,9 +13,9 @@ at the [University of Tübingen](https://uni-tuebingen.de/en/university/) funded
 
 Research Areas
 ======
-My research focuses on developing machine learning methodologies that bridge the gap between ML theory and clinical application. I am pursuing this goal along those broad directions:
+My research focuses on developing machine learning methodologies that bridge the gap between ML theory and clinical applications. I am pursuing this goal along those broad directions:
 
- * **Safety and uncertainty**: In medical image analysis, confidently predicting something false can have devastating consequences. I aim to develop machine learning algorithms that reflect the various uncertainties in the medical image analysis pipeline and can help clinical practitioners to safely use this technology in practice.
+ * **Safety and uncertainty**: In medical image analysis, confidently predicting something false can have devastating consequences. Hence, it is crucial to develop machine learning algorithms that reflect the various uncertainties in the medical image analysis pipeline and can help clinical practitioners to safely use this technology in practice.
 
  * **Learning efficiently with fewer data**: Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task?
 
