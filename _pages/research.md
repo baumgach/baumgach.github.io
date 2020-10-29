@@ -6,7 +6,8 @@ redirect_from:
   - /research.html
 ---
 
-## What motivates me
+What motivates me
+======
 
 Ultimately, the goal of medical image analysis driven by machine learning is to
 obtain better patient outcomes. However, even though tremendous progress has been made
@@ -34,8 +35,7 @@ and allow the operator to interact with the algorithm during the prediction and
 training phase, in a life long learning setting.
 
 ## Specific research areas
-
-I am currently working on the four research areas below. 
+======
 
 ### Safety and uncertainty
 
