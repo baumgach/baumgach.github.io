@@ -34,12 +34,12 @@ and allow the operator to interact with the algorithm during the prediction and
 training phase, in a life long learning setting.
 
 ## Specific research areas
-
+ 
 ### Safety and uncertainty
 
 In medical image analysis, confidently predicting something false can have devastating consequences. Apart from achieving high predictive accuracy, one needs to establish the circumstances under which algorithmic predictions generalize, or give appropriate error bounds. This is highly relevant to patient safety and the regulation of machine learning based medical software. In my research, I develop deep learning methods founded in probability theory that can be used to estimate uncertainty stemming from sources such as the image reconstruction, or inherent limitations of an imaging modality.
 
-#### Relevant papers
+#### Selected publications
 
  * **Christian F Baumgartner**, Kerem C Tezcan, Krishna Chaitanya, Andreas M Hötker, Urs J Muehlematter, Khoschy Schawkat, Anton S Becker, Olivio Donati, Ender Konukoglu.; [Phiseg: Capturing uncertainty in medical image segmentation](https://arxiv.org/pdf/1906.04045.pdf), Proc. MICCAI 2019
  * Kerem C Tezcan, **Christian F Baumgartner**, Ender Konukoglu; [Sampling possible reconstructions of undersampled acquisitions in MR imaging](https://arxiv.org/abs/2010.00042), arXiv preprint arXiv:2010.00042 (2020)
@@ -47,7 +47,11 @@ In medical image analysis, confidently predicting something false can have devas
 
 ### Learning efficiently with fewer data
 
-Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task?
+Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. In a first step this raises the question: how can we learn with fewer data, while still achieving acceptable performance. Annotation effort can be reduced by either only partially annotating each image (weakly supervised learning) or, alternatively, by only annotating a subset of images (semi-supervised learning). Different tasks may benefit from different annotation strategies.
+
+#### Selected publications
+
+
 
 ### Exploiting shared information between tasks
 
