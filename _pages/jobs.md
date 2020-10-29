@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Working with us"
 author_profile: true
 redirect_from:
-  - /contact.html
+  - /jobs.html
 ---
 
 ## Academic Job Opportunities
