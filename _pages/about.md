@@ -31,5 +31,5 @@ In 2020, I have been working in a research engineering role at [PTC Vuforia](htt
 
 News
 ======
- * Oct 2020: You can apply for PhD positions in our group through the prestigious [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/). **The deadline is Nov 2, 2020**. Get in touch for details how to apply to work with us!  
+ * Oct 2020: You can apply for PhD positions in our group through the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/). **The deadline is Nov 2, 2020**. Get in touch for details how to apply to work with us!  
  * Oct 2020: Accepted position as Independent Research Group Leader at the University of Tübingen
