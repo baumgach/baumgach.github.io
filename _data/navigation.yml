@@ -3,8 +3,8 @@ main:
   - title: "Research Interests"
     url: /research/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
-  - title: "Opportunities"
+  - title: "Job Opportunities"
     url: /contact/
