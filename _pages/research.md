@@ -34,6 +34,8 @@ training phase, in a life long learning setting.
 Specific research areas
 ======
 
+ 
+
 ## Safety and uncertainty
 
 In medical image analysis, confidently predicting something false can have devastating consequences. Apart from achieving high predictive accuracy, one needs to establish the circumstances under which algorithmic predictions generalize, or give appropriate error bounds. This is highly relevant to patient safety and the regulation of machine learning based medical software. The goal in this branch, is develop deep learning methods founded in probability theory that can be used to estimate uncertainty stemming from sources such as the image reconstruction, or inherent limitations of an imaging modality.
