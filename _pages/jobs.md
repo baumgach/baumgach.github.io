@@ -15,7 +15,7 @@ learning.
 Until Nov 2, 2020 you will have the opportunity to apply through the
 prestigious [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
 Successful candidates will not only be able to perform research in one of the
-most vibrant environments for machine learning research in Europe, but will
+most vibrant environments for machine learning research in the world, but will
 also receive lots of career development support and training workshops.
 The entire program is in English and applications by international students are
 very welcome.
