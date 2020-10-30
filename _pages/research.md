@@ -1,16 +1,14 @@
 ---
 permalink: /research/
-title: "What motivates me"
+title: "Research motivation"
 author_profile: true
 redirect_from:
   - /research.html
 ---
 
-What motivated me from the very beginning and what drew me into this field, is a desire
-to do something that has a tangible positive impact on society. What this means in the field I found myself in,
-the field of medical image analysis, is to ultimately obtain better patient outcomes
-by automating certain aspects of the clinical pipeline. However, even though tremendous
-progress has been made in research settings, surprisingly little of this technology has leaked into
+In the field of medical image analysis, the ultimate goal is to improve patient
+outcomes. However, even though tremendous progress has been made in research settings,
+surprisingly little of this technology has leaked into
 medical practice. One reason for this is that the medical domain is an
 extremely high-stakes application field with extraordinary demands on robustness
 of algorithms. A further complication is that it is very difficult and expensive to prove
