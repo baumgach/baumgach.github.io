@@ -8,7 +8,9 @@ redirect_from:
 
 ## Academic Job Opportunities
 
-I am currently hiring for an excellent PhD student interested in doing cutting
+There are currently no openings in our group. 
+
+<!-- I am currently hiring for an excellent PhD student interested in doing cutting
 edge research at the intersection of medical image analysis and machine
 learning.
 
@@ -24,4 +26,4 @@ Women and people from diverse backgrounds are very much encouraged to apply!
 
 The applications will be handled together with [Prof. Philipp Berens](http://www.eye-tuebingen.de/berens/),
 who will be the official contact person during the application process. In case of interest, please contact
-me directly via [email](mailto:c.f.baumgartner@gmail.com) or any other channel.
+me directly via [email](mailto:c.f.baumgartner@gmail.com) or any other channel. -->
