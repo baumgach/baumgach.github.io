@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Starting in 2021, I will be heading the **Machine Learning in Medical Image Analysis Group**
-at the [University of Tübingen](https://uni-tuebingen.de/en/university/) funded by the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
+I am leading the independent research group for **Machine Learning in Medical Image Analysis**
+at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
 
 Research Areas
 ======
@@ -27,7 +27,7 @@ See more details in the [Research Interests](research) section.
 
 Short Bio
 ======
-In 2020, I have been working in a senior research engineering role at [PTC Vuforia](https://www.ptc.com/en/products/vuforia), where I got the opportunity to work on the translation of machine learning technology into a product. Prior to this, I was a Post-doc at the [Biomedical Image Computing Group](https://bmic.ee.ethz.ch/) at ETH Zürich working with [Prof. Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and before in the [Biomedical Image Analysis Lab](https://biomedia.doc.ic.ac.uk/) with [Prof. Daniel Rueckert](http://wp.doc.ic.ac.uk/dr/). I completed my PhD in 2016 under the joint supervision of [Prof. Andy King](https://www.kcl.ac.uk/people/andrew-king) and Prof. Daniel Rueckert at King's College London in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis). Checkout my PhD thesis [here](files/phd_thesis.pdf). I obtained my Master's degree in Biomedical Engineering and my Bachelor's degree in Information Technology and Electrical Engineering from ETH Zürich.
+Before joining the University of Tübingen, I was working in a senior research engineering role at [PTC Vuforia](https://www.ptc.com/en/products/vuforia), where I worked on research and develoment of machine learning technology for augmented reality applictaions. Prior to this, I was a Post-doc at the [Biomedical Image Computing Group](https://bmic.ee.ethz.ch/) at ETH Zürich working with [Prof. Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and before in the [Biomedical Image Analysis Lab](https://biomedia.doc.ic.ac.uk/) with [Prof. Daniel Rueckert](http://wp.doc.ic.ac.uk/dr/). I completed my PhD in 2016 under the joint supervision of [Prof. Andy King](https://www.kcl.ac.uk/people/andrew-king) and Prof. Daniel Rueckert at King's College London in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) ([link to PhD thesis](files/phd_thesis.pdf)). I obtained my Master's degree in Biomedical Engineering and my Bachelor's degree in Information Technology and Electrical Engineering from ETH Zürich.
 
 News
 ======
