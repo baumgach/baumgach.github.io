@@ -6,11 +6,11 @@ redirect_from:
   - /jobs.html
 ---
 
-## Academic Job Opportunities
+<!-- ## Academic Job Opportunities -->
 
 We currently have the following two openings in our group:
 
-### Doctoral-Position (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
+## Doctoral-Position (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 to be filled as soon as possible.
 
 **Project description**  
@@ -30,7 +30,7 @@ Tübingen is a scenic university town on the Neckar river in South-Western Germa
 **How to apply**  
 Please send a cover letter, your CV, the names and email addresses of 2-3 referees, and copies of your University transcripts to Christian Baumgartner (<christian.baumgartner@uni-tuebingen.de>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
 
-### Postdoctoral Researcher (E13 TV-L, m/f/d) or PhD Student (E13 TV-L, 65%, m/f/d)
+## Postdoctoral Researcher (E13 TV-L, m/f/d) or PhD Student (E13 TV-L, 65%, m/f/d)
 starting as soon as possible. 
 
 How can we bring machine learning technology to clinical medical imaging practice? This is the main question the [Machine Learning in Medical Image Analysis (MLMIA)](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/ml-in-medical-image-analysis/) group led by Dr. Christian Baumgartner tries to answer. Far from being solved, this question requires novel and creative approaches to numerous hard machine learning challenges. The main research focus of the MLMIA group is the development of methods that enable collaboration between humans and AI systems, in particular techniques for uncertainty quantification, interpretabiliy of predictions, and human-in-the-loop systems. A further focus is the application of generative modeling approaches to large medical imaging cohorts in order to better understand physiological and pathological processes and their connection to extraneous factors.
