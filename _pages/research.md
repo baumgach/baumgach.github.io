@@ -7,33 +7,21 @@ redirect_from:
 ---
 
 In the field of medical image analysis, the ultimate goal is to improve patient
-outcomes. However, even though tremendous progress has been made in research settings,
+outcomes. There are a number of broad ways in which machine learning can help achieve this goal:
+ - Relieving the burden on doctors and the healthcare system by accelerating and simplyfing the analsysis of medical images by partially automating steps such as diagnosis, outcome prediction, image quantification, and image reconstruction.
+ - Developing technology which enables completely novel clinical workflows which are not possible without AI support. 
+ - Extraction of new clinical knowledge from large image data bases, which can inform future clinical dectisions, treatments and drug trials. 
+
+However, even though tremendous progress has been made for all of those points in research settings,
 surprisingly little of this technology has leaked into
 medical practice. One reason for this is that the medical domain is an
 extremely high-stakes application field with extraordinary demands on robustness
-of algorithms. A further complication is that it is very difficult and expensive to prove
-that the algorithms behave as intended to overseeing bodies such as the
-[US FDA](https://en.wikipedia.org/wiki/Food_and_Drug_Administration) or the
-[TÜVs](https://en.wikipedia.org/wiki/Technischer_%C3%9Cberwachungsverein).
-On the other hand, doctors must be willing to use this technology and it must
-be integrated into clinical workflows in a useful way, a problem often not
-considered in pure research settings.
+of algorithms. Another reason is that algorithmic outputs are not suitable for clinical decision making if neither the patient nor the doctor can understand the reasoning behind the prediction, and clinicians are loath to the thus-far predominately black-box technology. Both of the above points also have important implications for the certification of AI technology. 
 
 Therefore, in order to start harnessing the massive potential of machine learning
 for healthcare, and to actually use it to improve real patient outcomes,
 I aim to do research that helps to bridge this gap between research and
-clinical practice. I believe contributions are especially important in the
-following two broad areas:
-
-1. Developing machine learning methods that are founded in theory will allow us
-to develop more robust algorithms, to better appreciate confidence bounds of
-predictive algorithms, and to understand the relationship between training data
-and algorithm performance. This will ultimately lead to algorithms that are more useful
-and easier to certify.
-2. Developing methods with the human in mind (i.e. human-in-the-loop techniques),
-which optimally communicate prediction uncertainty to the operator,
-and allow them to interact with the algorithm during the prediction and
-training phase.
+clinical practice. 
 
 Specific research areas
 ======
@@ -48,6 +36,41 @@ In medical image analysis, confidently predicting something false can have devas
  * **Christian F Baumgartner**, Kerem C Tezcan, Krishna Chaitanya, Andreas M Hötker, Urs J Muehlematter, Khoschy Schawkat, Anton S Becker, Olivio Donati, Ender Konukoglu., [Phiseg: Capturing uncertainty in medical image segmentation](https://arxiv.org/pdf/1906.04045.pdf), Proc. MICCAI 2019
  * Kerem C Tezcan, **Christian F Baumgartner**, Ender Konukoglu, [Sampling possible reconstructions of undersampled acquisitions in MR imaging](https://arxiv.org/abs/2010.00042), arXiv preprint arXiv:2010.00042 (2020)
  * Esther Puyol-Antón, Bram Ruijsink, **Christian F Baumgartner**, Pier-Giorgio Masci, Matthew Sinclair, Ender Konukoglu, Reza Razavi, Andrew P King, [Automated quantification of myocardial tissue characteristics from native T 1 mapping using neural networks with uncertainty-based quality-control](https://link.springer.com/article/10.1186/s12968-020-00650-y), Journal of Cardiovascular Magnetic Resonance (2020)
+
+
+Interpretable machine learning
+------
+The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritize predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Realising much research effort has been put into explaining predictions by high-lighting important voxels, or providing textual feed-back. A less studied but equally exciting avenue is building models that are inherently interpretable rather than relying on post-hoc explanations. The latter research area is still understudied and presents enormous opportunities for improving clinical acceptance and human-AI interaction. 
+
+**Selected publications**
+
+ * **Christian F Baumgartner**, Konstantinos Kamnitsas, Jacqueline Matthew, Tara P Fletcher, Sandra Smith, Lisa M Koch, Bernhard Kainz, Daniel Rueckert, [SonoNet: real-time detection and localisation of fetal standard scan planes in freehand ultrasound](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7974824), IEEE Transactions in Medical Imaging (2017)
+
+
+Human-in-the-loop systems
+------
+Humans are not only involved in obtaining the final prediction of a machine learning based system. Especially in medical contexts, human users are also involved in collecting and annotating the training data, and in continuously improving the model over time by adding particularly informative cases to the model. What is more, those steps can often only be performed by clinicians who often need to perform these tasks working after hours in addition to their clinical responsibilities. To address these topics we investigate how to optimally use annotation time, by placing a particular focus on weak and active learning techniques. In addition to placing humans in the training loop, for some applications humans must also be placed in the prediction loop. For instance the initial prediction of an algorithm, e.g. an organ delineation task or a radiotherapy plan, may not completely agree with the users expectations. The clinician may want to refine her query for the algorithm and obtain an improved prediction. How to integrate humans into the prediction loop is studied in the field of interactive learning. 
+
+**Selected publications**
+
+ * Yigit B Can, Krishna Chaitanya, Basil Mustafa, Lisa M Koch, Ender Konukoglu, **Christian F Baumgartner**, [Learning to segment medical images with scribble-supervision alone](https://arxiv.org/pdf/1807.04668), Proc. DLMIA 2018
+ * Krishna Chaitanya, Neerav Karani, **Christian F Baumgartner**, Anton Becker, Olivio Donati, Ender Konukoglu, [Semi-supervised and task-driven data augmentation](https://arxiv.org/pdf/1902.05396), Proc. IPMI 2019
+ * Lisa Margret Koch, Martin Rajchl, Wenjia Bai, **Christian F Baumgartner**, Tong Tong, Jonathan Passerat-Palmbach, Paul Aljabar, Daniel Rueckert, [Multi-atlas segmentation using partially annotated data: methods and annotation strategies](https://ieeexplore.ieee.org/iel7/34/8371350/08014481.pdf), Transactions in Pattern Recognition and Machine Intelligence (2017)
+
+
+Discovering effects in big medical data
+------
+
+Data is the most precious resource in our profession. Having realised this, many governments and organisations started collecting
+massive and incredibly detailed datasets of patients suffering from diseases as well as healthy people. Some examples of such datasets are the [UK Biobank](https://www.ukbiobank.ac.uk/), the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort), or the [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu/). These dataset contain not only images, but vast amounts of extra information such as genetic markers and life-style choices. In parallel, machine learning technology, in particular the fields of generative modelling and causal inference have progressed to a point where analysing such datasets on a pixel/voxel level becomes feasible. This creates an unprecedented opportunity to discover physiological mechanisms, disease processes, and connections between imaging and non-imaging data.
+
+**Selected publications**
+
+**Christian F Baumgartner**, Lisa M Koch, Kerem Can Tezcan, Jia Xi Ang, Ender Konukoglu, [Visual feature attribution using Wasserstein GANs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baumgartner_Visual_Feature_Attribution_CVPR_2018_paper.pdf), Proc. CVPR 2018
+
+
+<!-- Past research
+======
 
 Learning efficiently with fewer data
 ------
@@ -72,17 +95,8 @@ Humans learn new tasks by heavily relying on previous experiences. A doctor in t
 **Selected publications**
 
  * Neerav Karani, Krishna Chaitanya, **Christian F Baumgartner**, Ender Konukoglu, [A lifelong learning approach to brain MR segmentation across scanners and protocols](https://arxiv.org/pdf/1805.10170), Proc. MICCAI 2018
- * Konstantinos Kamnitsas, **Christian F Baumgartner**, Christian Ledig, Virginia Newcombe, Joanna Simpson, Andrew Kane, David Menon, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker, [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/pdf/1612.08894), Proc. IPMI 2017
+ * Konstantinos Kamnitsas, **Christian F Baumgartner**, Christian Ledig, Virginia Newcombe, Joanna Simpson, Andrew Kane, David Menon, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker, [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/pdf/1612.08894), Proc. IPMI 2017 -->
 
-Discovering effects in big medical data
-------
-
-Data is the most precious resource in our profession. Having realised this, many governments and organisations started collecting
-massive and incredibly detailed datasets of patients suffering from diseases as well as healthy people. Some examples of such datasets are the [UK Biobank](https://www.ukbiobank.ac.uk/), the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort), or the [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu/). These dataset contain not only images, but vast amounts of extra information such as genetic markers and life-style choices. In parallel, machine learning technology, in particular the fields of generative modelling and causal inference have progressed to a point where analysing such datasets on a pixel/voxel level becomes feasible. This creates an unprecedented opportunity to discover physiological mechanisms, disease processes, and connections between imaging and non-imaging data.
-
-**Selected publications**
-
-**Christian F Baumgartner**, Lisa M Koch, Kerem Can Tezcan, Jia Xi Ang, Ender Konukoglu, [Visual feature attribution using Wasserstein GANs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baumgartner_Visual_Feature_Attribution_CVPR_2018_paper.pdf), Proc. CVPR 2018
 
 Research ethics
 ======
