@@ -19,9 +19,9 @@ My research focuses on developing machine learning methodologies that bridge the
 
  <!-- * **Learning efficiently with fewer data**: Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task? -->
 
-* **Interpretable machine learning**: It is clear that aritifical intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians to optimally interface with machine learning algorithms. 
+* **Interpretable machine learning**: It is clear that artificial intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians and patients to optimally interface with machine learning algorithms. One important aspect of this question is making algorithmic decision processes transparent. 
 
-* **Human-in-the-loop systems**: Humans' are an essential component in every ML system in multiple ways: They provide training data, they select and train the model, they opperate the system. Thus it makes sense to put emphasis on the humans' role for instance by developing techniques for reducing annotation effort, active learning, and interactive prediction. 
+* **Human-in-the-loop systems**: Humans are an essential component in every ML system in multiple ways: they provide training data, they select and train the model, they operate the system. Thus it makes sense to put emphasis on the human role in this process for instance by developing techniques for reducing annotation effort, active learning, and interactive predictions. 
 
  <!-- * **Exploiting shared information between tasks**: Often algorithms are learned from scratch for each new problem. Taking into account that many problems are related in various ways can help us create more intelligent algorithms. -->
 
