@@ -10,7 +10,7 @@ redirect_from:
 
 We currently have the following three openings in our group:
 
-## Doctoral-Position (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
+## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 to be filled as soon as possible.
 
 **Project description**  
