@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- ## Academic Job Opportunities -->
 
-We are currently inviting application for the following positions:
+We are currently inviting applications for the following positions:
 
 ## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 
