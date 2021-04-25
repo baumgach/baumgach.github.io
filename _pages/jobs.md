@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- ## Academic Job Opportunities -->
 
-We are currently inviting applications for the following positions:
+The [Machine Learning in Medical Image Analysis (MLMIA)](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/ml-in-medical-image-analysis/) group is currently inviting applications for the following positions:
 
 ## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 
