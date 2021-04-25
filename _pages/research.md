@@ -9,19 +9,19 @@ redirect_from:
 In the field of medical image analysis, the ultimate goal is to improve patient
 outcomes. There are a number of broad ways in which machine learning can help achieve this goal:
  - Relieving the burden on doctors and the healthcare system by accelerating and simplifying the analysis of medical images through partial or full automation of steps such as diagnosis, outcome prediction, image quantification, and image reconstruction.
- - Developing technology which enables completely novel clinical workflows which are not possible without AI support. 
- - Extraction of new clinical knowledge from large image data bases, which can inform future clinical dectisions, treatments and drug trials. 
+ - Developing technology which enables completely novel clinical workflows which are not possible without AI support.
+ - Extraction of new clinical knowledge from large image data bases, which can inform future clinical dectisions, treatments and drug trials.
 
 However, even though tremendous progress has been made for all of those points in research settings,
 surprisingly little of this technology has leaked into
 medical practice. One reason for this is that the medical domain is an
 extremely high-stakes application field with extraordinary demands on robustness
-of algorithms. Another reason is that algorithmic outputs are not suitable for clinical decision making if neither the patient nor the doctor can understand the reasoning behind the prediction, and clinicians are loath to the thus-far predominately black-box technology. Both of the above points also have important implications for the certification of AI technology. 
+of algorithms. Another reason is that algorithmic outputs are not suitable for clinical decision making if neither the patient nor the doctor can understand the reasoning behind the prediction, and clinicians are loath to the thus-far predominately black-box technology. Both of the above points also have important implications for the certification of AI technology.
 
 Therefore, in order to start harnessing the massive potential of machine learning
 for healthcare, and to actually use it to improve real patient outcomes,
 I aim to do research that helps to bridge this gap between research and
-clinical practice. 
+clinical practice.
 
 Specific research areas
 ======
@@ -40,7 +40,7 @@ In medical image analysis, confidently predicting something false can have devas
 
 Interpretable machine learning
 ------
-The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritize predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Our research goals in this branch are to develop adequate explanations for predictions of deep learning models, and perhaps more importantly, to build inherently interpretable models rooted in prior clinical knowledge. 
+The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritise predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Our research goals in this branch are to develop adequate explanations for predictions of deep learning models, and perhaps more importantly, to build inherently interpretable models rooted in prior clinical knowledge. 
 
 **Selected publications**
 
@@ -49,7 +49,7 @@ The rapid developments and early successes of deep learning technology in medica
 
 Human-in-the-loop systems
 ------
-Humans are not only involved in obtaining the final prediction of a machine learning based system. Especially in medical contexts, human users are also involved in collecting and annotating the training data, and in continuously improving the model over time by adding particularly informative cases to the model. What is more, those steps can often only be performed by clinicians who often need to perform these tasks working after hours in addition to their clinical responsibilities. To address these topics we investigate optimizing annotation time by using weak and active learning techniques. In addition to placing humans in the training loop, for some applications humans must also be placed in the prediction loop. For instance the initial prediction of an algorithm, e.g. an organ delineation task or a radiotherapy plan, may not completely agree with the users expectations. The clinician may want to refine her query for the algorithm and obtain an improved prediction. How to integrate humans into the prediction loop is studied in the field of interactive learning. 
+Humans are not only involved in obtaining the final prediction of a machine learning based system. Especially in medical contexts, human users are also involved in collecting and annotating the training data, and in continuously improving the model over time by adding particularly informative cases to the model. What is more, those steps can often only be performed by clinicians who often need to perform these tasks working after hours in addition to their clinical responsibilities. To address these topics we investigate optimizing annotation time by using weak and active learning techniques. In addition to placing humans in the training loop, for some applications humans must also be placed in the prediction loop. For instance the initial prediction of an algorithm, e.g. an organ delineation task or a radiotherapy plan, may not completely agree with the users expectations. The clinician may want to refine her query for the algorithm and obtain an improved prediction. How to integrate humans into the prediction loop is studied in the field of interactive learning.
 
 **Selected publications**
 
@@ -62,7 +62,7 @@ Discovering effects in big medical data
 ------
 
 Data is the most precious resource in our profession. Having realised this, many governments and organisations started collecting
-massive and incredibly detailed datasets of patients suffering from diseases as well as healthy people. Some examples of such datasets are the [UK Biobank](https://www.ukbiobank.ac.uk/), the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort), or the [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu/). These dataset contain not only images, but vast amounts of extra information such as genetic markers and life-style choices. In parallel, machine learning technology, in particular the fields of generative modelling and causal inference have progressed to a point where analysing such datasets on a pixel/voxel level becomes feasible. This creates an unprecedented opportunity to discover physiological mechanisms, disease processes, and connections between imaging and non-imaging data. A focus of our group is to develop scalable probabilistic modelling and inference techniques to analyse such data. 
+massive and incredibly detailed datasets of patients suffering from diseases as well as healthy people. Some examples of such datasets are the [UK Biobank](https://www.ukbiobank.ac.uk/), the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort), or the [Alzheimer's Disease Neuroimaging Initiative](http://adni.loni.usc.edu/). These dataset contain not only images, but vast amounts of extra information such as genetic markers and life-style choices. In parallel, machine learning technology, in particular the fields of generative modelling and causal inference have progressed to a point where analysing such datasets on a pixel/voxel level becomes feasible. This creates an unprecedented opportunity to discover physiological mechanisms, disease processes, and connections between imaging and non-imaging data. A focus of our group is to develop scalable probabilistic modelling and inference techniques to analyse such data.
 
 **Selected publications**
 
