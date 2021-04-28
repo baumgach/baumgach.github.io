@@ -16,7 +16,7 @@ However, even though tremendous progress has been made for all of those points i
 surprisingly little of this technology has leaked into
 medical practice. One reason for this is that the medical domain is an
 extremely high-stakes application field with extraordinary demands on robustness
-of algorithms. Another reason is that algorithmic outputs are not suitable for clinical decision making if neither the patient nor the doctor can understand the reasoning behind the prediction, and clinicians are loath to the thus-far predominately black-box technology. Both of the above points also have important implications for the certification of AI technology.
+of algorithms. Another reason is that algorithmic outputs are not suitable for clinical decision making if neither the patient nor the doctor can understand the reasoning behind the prediction, and clinicians are loath to use the thus-far predominately black-box technology. Both of the above points also have important implications for the certification of AI technology.
 
 Therefore, in order to start harnessing the massive potential of machine learning
 for healthcare, and to actually use it to improve real patient outcomes,
@@ -40,7 +40,7 @@ In medical image analysis, confidently predicting something false can have devas
 
 Interpretable machine learning
 ------
-The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritise predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Our research goals in this branch are to develop adequate explanations for predictions of deep learning models, and perhaps more importantly, to build inherently interpretable models rooted in prior clinical knowledge. 
+The rapid developments and early successes of deep learning technology in medical image analysis (and other fields) have caused the field to prioritise predictive accuracy over human integration. However, it is becoming increasingly clear that black box models are unlikely to find clinical acceptance, can lead to ethical problems when neither the patient nor the doctor understand the reasoning behind a prediction, and are difficult to certify. Our research goals in this branch are to develop adequate explanations for predictions of deep learning models, and perhaps more importantly, to build inherently interpretable models rooted in prior clinical knowledge.
 
 **Selected publications**
 
