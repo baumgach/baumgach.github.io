@@ -20,7 +20,7 @@ of algorithms. Another reason is that algorithmic outputs are not suitable for c
 
 Therefore, in order to start harnessing the massive potential of machine learning
 for healthcare, and to actually use it to improve real patient outcomes,
-I aim to do research that helps to bridge this gap between research and
+I aim to do research that helps to bridge this gap between machine learning and
 clinical practice.
 
 Specific research areas
