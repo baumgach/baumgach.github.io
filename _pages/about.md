@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am leading the independent research group for [**Machine Learning in Medical Image Analysis**](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/ml-in-medical-image-analysis/)
+I am leading the independent research group for [**Machine Learning in Medical Image Analysis**](https://mlmia-unitue.de)
 at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
 
 Research Areas
