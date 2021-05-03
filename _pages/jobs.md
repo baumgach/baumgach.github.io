@@ -10,7 +10,7 @@ redirect_from:
 
 The [Machine Learning in Medical Image Analysis (MLMIA)](https://mlmia-unitue.de) group is currently inviting applications for the following positions:
 
-Warning: There was an incredibily bad timed and still ongoing issue with the uni-tuebingen.de mailserver affecting the deadline last night. If you sent your application and received a “Mail undelivered error” please try again sending your application to [c.f.baumgartner@gmail.com](c.f.baumgartner@gmail.com)
+**Warning: There was an incredibly ill-timed and still ongoing issue with the uni-tuebingen.de mailserver affecting the deadline last night. If you sent your application after 2. Mai 23:58 GMT+2 and received a "Mail undelivered error" please try again sending your application to [c.f.baumgartner@gmail.com](mailto:c.f.baumgartner@gmail.com)**
 
 ## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 
