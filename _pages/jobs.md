@@ -10,6 +10,8 @@ redirect_from:
 
 The [Machine Learning in Medical Image Analysis (MLMIA)](https://mlmia-unitue.de) group is currently inviting applications for the following positions:
 
+Warning: There was an incredibily bad timed and still ongoing issue with the uni-tuebingen.de mailserver affecting the deadline last night. If you sent your application and received a “Mail undelivered error” please try again sending your application to [c.f.baumgartner@gmail.com](c.f.baumgartner@gmail.com)
+
 ## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 
 **Project description**  
@@ -29,7 +31,7 @@ This is a project jointly supervised by [Dr. Christian Baumgartner](https://uni-
 Tübingen is a scenic university town on the Neckar river in South-Western Germany. The quality of life is exceptionally high and the atmosphere is diverse, inclusive, and most locals speak English. Tübingen offers excellent research opportunities due to the University, four Max Planck institutes, the University Hospital, and Europe’s largest AI research consortium. You can find out more about Tübingen here: <https://www.tuebingen.de/en/>.
 
 **How to apply**  
-Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<christian.baumgartner@uni-tuebingen.de>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
+Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<c.f.baumgartner@gmail.com>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
 
 ## PhD Student (E13 TV-L, 65%, m/f/d) in Interpretable Machine Learning for Medical Image Analysis
 
@@ -50,7 +52,7 @@ This project will be conducted in the [Machine Learning in Medical Image Analysi
 Tübingen is a scenic university town on the Neckar river in South-Western Germany. The quality of life is exceptionally high and the atmosphere is diverse, inclusive, and most locals speak English. Tübingen offers excellent research opportunities due to the University, four Max Planck institutes, the University Hospital, and Europe’s largest AI research consortium. You can find out more about Tübingen here: <https://www.tuebingen.de/en/>.
 
 **How to apply**  
-Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<christian.baumgartner@uni-tuebingen.de>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
+Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<c.f.baumgartner@gmail.com>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
 
 
 ## Postdoctoral Researcher (E13 TV-L, 100%, m/f/d) in Machine Learning for Medical Image Analysis
@@ -69,7 +71,7 @@ The MLMIA group is located in the machine learning building of the University of
 Tübingen is a scenic university town on the Neckar river in South-Western Germany. The quality of life is exceptionally high and the atmosphere is diverse, inclusive, and most locals speak English. Tübingen offers excellent research opportunities due to the University, four Max Planck institutes, the University Hospital, and Europe’s largest AI research consortium. You can find out more about Tübingen here: <https://www.tuebingen.de/en/>.
 
 **How to apply**  
-Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<christian.baumgartner@uni-tuebingen.de>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
+Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<c.f.baumgartner@gmail.com>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
 
 <!-- I am currently hiring for an excellent PhD student interested in doing cutting
 edge research at the intersection of medical image analysis and machine
