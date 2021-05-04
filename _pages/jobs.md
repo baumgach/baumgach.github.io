@@ -8,7 +8,9 @@ redirect_from:
 
 <!-- ## Academic Job Opportunities -->
 
-The [Machine Learning in Medical Image Analysis (MLMIA)](https://mlmia-unitue.de) group is currently inviting applications for the following positions:
+For up-to-date job offers have a look at our [group website](www.mlmia-unitue.de/#jobs).
+
+<!-- The [Machine Learning in Medical Image Analysis (MLMIA)](https://mlmia-unitue.de) group is currently inviting applications for the following positions:
 
 ## PhD student (m/f/d, E13 TV-L; 65%) in Robust Machine Learning for Medical Image Analysis
 
@@ -70,21 +72,4 @@ Tübingen is a scenic university town on the Neckar river in South-Western Germa
 
 **How to apply**  
 Please send a cover letter, your CV, copies of your university transcripts, and any additional information to support your application to Christian Baumgartner (<christian.baumgartner@uni-tuebingen.de>). If you have any questions about the position, please do not hesitate to contact Christian directly. The university seeks to raise the number of women in research and teaching and therefore urges qualified women scientists to apply for these positions. Equally qualified applicants with disabilities will be given preference. The employment will be carried out by the central administration of the University of Tübingen. Please submit your application by May 2nd, 2021.
-
-<!-- I am currently hiring for an excellent PhD student interested in doing cutting
-edge research at the intersection of medical image analysis and machine
-learning.
-
-Until Nov 2, 2020 you will have the opportunity to apply through the
-prestigious [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
-Successful candidates will not only be able to perform research in one of the
-most vibrant environments for machine learning research in the world, but will
-also receive lots of career development support and training workshops.
-The entire program is in English and applications by international students are
-very welcome.
-
-Women and people from diverse backgrounds are very much encouraged to apply!
-
-The applications will be handled together with [Prof. Philipp Berens](http://www.eye-tuebingen.de/berens/),
-who will be the official contact person during the application process. In case of interest, please contact
-me directly via [email](mailto:c.f.baumgartner@gmail.com) or any other channel. -->
+ -->

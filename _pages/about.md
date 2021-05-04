@@ -35,6 +35,6 @@ Before joining the University of Tübingen, I was working in a senior research e
 
 News
 ======
- * April 2021: We have two new openings for PhD students and a post-doc! See the [jobs page](jobs) for more details.
+ * ~~April 2021: We have two new openings for PhD students and a post-doc! See the [jobs page](jobs) for more details.~~
  * ~~Oct 2020: You can apply for PhD positions in our group through the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/). **The deadline is Nov 2, 2020**. Get in touch for details how to apply to work with us! More details here.~~
  * Oct 2020: Accepted position as Independent Research Group Leader at the University of Tübingen
