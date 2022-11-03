@@ -35,6 +35,8 @@ Before joining the University of Tübingen, I was working in a senior research e
 
 News
 ======
- * ~~April 2021: We have two new openings for PhD students and a post-doc! See the [jobs page](jobs) for more details.~~
- * ~~Oct 2020: You can apply for PhD positions in our group through the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/). **The deadline is Nov 2, 2020**. Get in touch for details how to apply to work with us! More details here.~~
- * Oct 2020: Accepted position as Independent Research Group Leader at the University of Tübingen
+ * September 2022: MLMIA team wins [MICCAI K2S MR reconstruction and segmentation challenge](https://www.mlmia-unitue.de/news/2022-11-03-recon-challenge-win/)! 
+ * September 2022: New paper on [adversarial robustness of MR reconstruction algorithms](https://www.mlmia-unitue.de/news/2022-11-03-mlmir-paper/) accepted to MICCAI MLMIR Workshop 
+ * July 2022: After [MIDL 2022](https://2022.midl.io/) in Zürich, I will be again serving as [MIDL 2023](https://2023.midl.io/) Program Committee Member  
+ * July 2022: New MIDL 2022 short paper on [strategies for meta-learning with diverse tasks](https://www.mlmia-unitue.de/news/2022-11-03-meta-learning-paper/)
+ * February 2022: Our [paper on quantifying uncertainty in deep learning based MR reconstruction](https://ieeexplore.ieee.org/abstract/document/9709768) finally published in IEEE Transactions in Medical Imaging
