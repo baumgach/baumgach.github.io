@@ -11,7 +11,7 @@ redirect_from:
 I am leading the independent research group for [**Machine Learning in Medical Image Analysis**](https://mlmia-unitue.de)
 at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
 
-Research Areas
+<!-- Research Areas
 ======
 My research focuses on developing machine learning methodologies that bridge the gap between ML theory and clinical applications. Specifically, I am interested in technologies facilitating human-AI collaboration, as well as using probabilistic modelling to discover disease effects and connections between clinical variables. I am pursuing those goals along the following directions:
 
@@ -19,13 +19,13 @@ My research focuses on developing machine learning methodologies that bridge the
 
  <!-- * **Learning efficiently with fewer data**: Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task? -->
 
-* **Interpretable machine learning**: It is clear that artificial intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians and patients to optimally interface with machine learning algorithms. One important aspect of this question is making algorithmic decision processes transparent.
+ <!--  * **Interpretable machine learning**: It is clear that artificial intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians and patients to optimally interface with machine learning algorithms. One important aspect of this question is making algorithmic decision processes transparent.
 
-* **Human-in-the-loop systems**: Humans are an essential component in every ML system in multiple ways: they provide training data, they select and train the model, they operate the system. Thus it makes sense to put emphasis on the human role in this process for instance by developing techniques for reducing annotation effort, active learning, and interactive predictions.
+* **Human-in-the-loop systems**: Humans are an essential component in every ML system in multiple ways: they provide training data, they select and train the model, they operate the system. Thus it makes sense to put emphasis on the human role in this process for instance by developing techniques for reducing annotation effort, active learning, and interactive predictions. -->
 
  <!-- * **Exploiting shared information between tasks**: Often algorithms are learned from scratch for each new problem. Taking into account that many problems are related in various ways can help us create more intelligent algorithms. -->
-
- * **Discovering effects in big medical data**: Recent advances in probabilistic machine learning techniques offer a unique opportunity to explore datasets with ten thousands of images (such as the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort)) to better understand disease processes.
+<!-- 
+ * **Discovering effects in big medical data**: Recent advances in probabilistic machine learning techniques offer a unique opportunity to explore datasets with ten thousands of images (such as the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort)) to better understand disease processes. -->
 
 See more details in the [Research Interests](research) section.
 
