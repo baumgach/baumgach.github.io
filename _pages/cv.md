@@ -15,7 +15,7 @@ redirect_from:
   * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de) at the Cluster of Excellence Machine Learning: New Perspectives for Science
   * Faculty of the International Max Planck Research School for Intelligent Systems (IMPRS-IS).
 
-* Jan 2022 - Jan 2021: Senior Research and Development Engineer, PTC Vuforia, Zürich
+* Jan 2020 - Jan 2021: Senior Research and Development Engineer, PTC Vuforia, Zürich
 
 * Jan 2017 - Oct 2019: Postdoctoral fellow (ETH Fellows) in machine learning for medical image analysis, ETH Zürich, Switzerland
 
