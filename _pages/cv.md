@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae - Dr. Christian Frederik Baumgartner"
+title: "Curriculum Vitae "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+## Work experience
+
 * Feb 2021 - present: Independent Research Group Leader, University of Tübingen, Germany
   * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de) at the Cluster of Excellence Machine Learning: New Perspectives for Science
   * Faculty of the International Max Planck Research School for Intelligent Systems (IMPRS-IS).
@@ -21,8 +21,8 @@ Work experience
 
 * Aug 2015 - Dec 2016: Postdoctoral researcher in machine learning for medical image analysis, Imperial College London, UK
 
-Education
-======
+## Education
+
 * PhD in Biomedical Engineering, King's College London, UK (2016)
   * Thesis title: "Manifold alignment for imaging and modelling respiratory motion"
   * Thesis advisors: Dr. Andrew Peter King, Prof. Daniel Rueckert
@@ -31,8 +31,8 @@ Education
 
 * B.Sc. Electrical Engineering & Information Technology, ETH Zürich, Switzerland (2009)
 
-Research overview
-======
+## Research overview
+
 * Research Interests: Machine learning (ML) for medical image analysis, computer-aided detection and diagnosis, medical image acquisition, ML methods development, clinical integration
 * Main research themes
   * Strategies for learning from limited medical data
@@ -42,15 +42,13 @@ Research overview
   * ML-based MR image reconstruction
   * Statistical modelling of big medical (imaging) data
 
-Organization of scientific meetings
-======
+## Organization of scientific meetings
 
 * Programme Committee for Medical Imaging with Deep Learning (MIDL) conference 2023
 * Programme Chair for Medical Imaging with Deep Learning (MIDL) conference 2022
 * Co-organizer of the MICCAI workshop on Uncertainty for Safe Utilization of Reporting and Enhancing in medical image applications (UNSURE) 2019--2022
 
-Other services and review activities 
-======
+## Other services and review activities 
 
 * Area chairing / meta-reviewing: 
   * International Conference on Medical Image Computing and Computer Assisted
