@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae - Dr. Christian Frederik Baumgartner"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Work experience
 ======
-* **Feb 2021 - present**: Independent Research Group Leader, University of Tübingen, Germany
-  * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de) at the Cluster of Excellence - Machine Learning: New Perspectives for Science
+* Feb 2021 - present: Independent Research Group Leader, University of Tübingen, Germany
+  * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de) at the Cluster of Excellence Machine Learning: New Perspectives for Science
   * Faculty of the International Max Planck Research School for Intelligent Systems (IMPRS-IS).
 
 * Jan 2022 - Jan 2021: Senior Research and Development Engineer, PTC Vuforia, Zürich
@@ -73,4 +73,4 @@ Other services and review activities
   * The Journal of Machine Learning for Biomedical Imaging (MELBA)
   * Int. Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)
   * Medical Imaging with Deep Learning (MIDL) conference (Exceptional Reviewer Award 2021)
-  * IEEE International Symposium on Biomedical Imaging (ISBI), Int. Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)
+  * IEEE International Symposium on Biomedical Imaging (ISBI), Int. Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
