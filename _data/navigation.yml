@@ -4,11 +4,11 @@ main:
   - title: "About Me"
     url: /
 
+  - title: "Online CV"
+    url: /cv/
+
   - title: "Research Interests"
     url: /research/
-
-  # - title: "CV"
-  #   url: /cv/
 
   - title: "Job Opportunities"
     url: /jobs/
