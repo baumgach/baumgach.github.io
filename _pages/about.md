@@ -17,17 +17,17 @@ My research focuses on developing machine learning methodologies that bridge the
 
  * **Safety and uncertainty**: In medical image analysis, confidently predicting something false can have devastating consequences. Hence, it is crucial to develop machine learning algorithms that reflect the various uncertainties in the medical image analysis pipeline and can help clinical practitioners to safely use this technology in practice.
 
- <!-- * **Learning efficiently with fewer data**: Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task? -->
+* **Learning efficiently with fewer data**: Obtaining annotated data is very expensive in the medical field because only clinical professionals can do it. How can we learn with fewer data, and how can we obtain training data that are optimal for a certain task? 
 
- <!--  * **Interpretable machine learning**: It is clear that artificial intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians and patients to optimally interface with machine learning algorithms. One important aspect of this question is making algorithmic decision processes transparent.
+* **Interpretable machine learning**: It is clear that artificial intelligence is in no position to replace clinicians and will not be for a long time, if ever. Therefore, we must develop techniques to allow clinicians and patients to optimally interface with machine learning algorithms. One important aspect of this question is making algorithmic decision processes transparent.
 
-* **Human-in-the-loop systems**: Humans are an essential component in every ML system in multiple ways: they provide training data, they select and train the model, they operate the system. Thus it makes sense to put emphasis on the human role in this process for instance by developing techniques for reducing annotation effort, active learning, and interactive predictions. -->
+* **Human-in-the-loop systems**: Humans are an essential component in every ML system in multiple ways: they provide training data, they select and train the model, they operate the system. Thus it makes sense to put emphasis on the human role in this process for instance by developing techniques for reducing annotation effort, active learning, and interactive predictions. 
 
- <!-- * **Exploiting shared information between tasks**: Often algorithms are learned from scratch for each new problem. Taking into account that many problems are related in various ways can help us create more intelligent algorithms. -->
-<!-- 
+* **Exploiting shared information between tasks**: Often algorithms are learned from scratch for each new problem. Taking into account that many problems are related in various ways can help us create more intelligent algorithms. 
+
  * **Discovering effects in big medical data**: Recent advances in probabilistic machine learning techniques offer a unique opportunity to explore datasets with ten thousands of images (such as the [German National Cohort Study](https://www.klinikum.uni-heidelberg.de/radiologische-klinik/klinik-fuer-diagnostische-und-interventionelle-radiologie/forschung/research-projects/the-german-national-cohort)) to better understand disease processes. -->
 
-See more details in the [Research Interests](research) section.
+<!-- See more details in the [Research Interests](research) section. -->
 
 Short Bio
 ======
