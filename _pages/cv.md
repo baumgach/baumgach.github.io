@@ -28,6 +28,7 @@ redirect_from:
   * Thesis advisors: Dr. Andrew Peter King, Prof. Daniel Rueckert
 
 * M.Sc. Biomedical Engineering, ETH Zürich, Switzerland (2012)
+  * Master thesis at Harvard Medical School on Brain Tractography. 
 
 * B.Sc. Electrical Engineering & Information Technology, ETH Zürich, Switzerland (2009)
 
