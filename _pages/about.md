@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am leading the independent research group for [**Machine Learning in Medical Image Analysis**](https://mlmia-unitue.de)
 at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
+
+My main research focus is on developing and applying ML technology for the analysis of medical images. My main research goals are to identify which criteria ML needs to fulfill to be clinically useful and solve the ML problems that prevent us from getting there. Specifically, my group is working on problems like learning from small datasets, robustness and uncertainty quantification, interpretable ML, and generative modelling of large medical datasets. 
 
 <!-- Research Areas
 ======
