@@ -40,7 +40,4 @@ News
 ======
  * April 2023: PhD student Susu Sun wins the [best poster jury award](https://www.mlmia-unitue.de/news/2023-03-24-susu-bias-award/) at the Bern Interpretable AI Symposium (BIAS)!
  * September 2022: MLMIA team wins [MICCAI K2S MR reconstruction and segmentation challenge](https://www.mlmia-unitue.de/news/2022-11-03-recon-challenge-win/)! 
- <!-- * September 2022: New paper on [adversarial robustness of MR reconstruction algorithms](https://www.mlmia-unitue.de/news/2022-11-03-mlmir-paper/) accepted to MICCAI MLMIR Workshop  -->
  * July 2022: After [MIDL 2022](https://2022.midl.io/) in Zürich, I will be again serving as Program Committee Member for [MIDL 2023](https://2023.midl.io/)
- <!-- * July 2022: New MIDL 2022 short paper on [strategies for meta-learning with diverse tasks](https://www.mlmia-unitue.de/news/2022-11-03-meta-learning-paper/)
- * February 2022: Our [paper on quantifying uncertainty in deep learning based MR reconstruction](https://ieeexplore.ieee.org/abstract/document/9709768) finally published in IEEE Transactions in Medical Imaging -->
