@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am leading the independent research group for [**Machine Learning in Medical Image Analysis**](https://mlmia-unitue.de)
+I am leading the independent research group for [Machine Learning in Medical Image Analysis](https://mlmia-unitue.de)
 at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
+
+**Please check out our [group website](https://mlmia-unitue.de) for the most up-to-date information!**
 
 My main research focus is on developing and applying ML technology for the analysis of medical images. My main research goals are to identify which criteria ML needs to fulfill to be clinically useful and solve the ML problems that prevent us from getting there. Specifically, my group is working on problems like learning from small datasets, robustness and uncertainty quantification, interpretable ML, and generative modelling of large medical datasets. 
 
@@ -36,8 +38,9 @@ Before joining the University of Tübingen, I was working in a senior research e
 
 News
 ======
+ * April 2023: PhD student Susu Sun wins the [best poster jury award](https://www.mlmia-unitue.de/news/2023-03-24-susu-bias-award/) at the Bern Interpretable AI Symposium (BIAS)!
  * September 2022: MLMIA team wins [MICCAI K2S MR reconstruction and segmentation challenge](https://www.mlmia-unitue.de/news/2022-11-03-recon-challenge-win/)! 
- * September 2022: New paper on [adversarial robustness of MR reconstruction algorithms](https://www.mlmia-unitue.de/news/2022-11-03-mlmir-paper/) accepted to MICCAI MLMIR Workshop 
+ <!-- * September 2022: New paper on [adversarial robustness of MR reconstruction algorithms](https://www.mlmia-unitue.de/news/2022-11-03-mlmir-paper/) accepted to MICCAI MLMIR Workshop  -->
  * July 2022: After [MIDL 2022](https://2022.midl.io/) in Zürich, I will be again serving as Program Committee Member for [MIDL 2023](https://2023.midl.io/)
- * July 2022: New MIDL 2022 short paper on [strategies for meta-learning with diverse tasks](https://www.mlmia-unitue.de/news/2022-11-03-meta-learning-paper/)
- * February 2022: Our [paper on quantifying uncertainty in deep learning based MR reconstruction](https://ieeexplore.ieee.org/abstract/document/9709768) finally published in IEEE Transactions in Medical Imaging
+ <!-- * July 2022: New MIDL 2022 short paper on [strategies for meta-learning with diverse tasks](https://www.mlmia-unitue.de/news/2022-11-03-meta-learning-paper/)
+ * February 2022: Our [paper on quantifying uncertainty in deep learning based MR reconstruction](https://ieeexplore.ieee.org/abstract/document/9709768) finally published in IEEE Transactions in Medical Imaging -->
