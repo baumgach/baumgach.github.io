@@ -12,8 +12,10 @@ redirect_from:
 ## Work experience
 
 * Feb 2021 - present: Independent Research Group Leader, University of Tübingen, Germany
-  * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de) at the Cluster of Excellence Machine Learning: New Perspectives for Science
-  * Faculty of the International Max Planck Research School for Intelligent Systems (IMPRS-IS).
+  * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de)
+  * Full member of the [Cluster of Excellence Machine Learning: New Perspectives for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
+  * Full member of the [Institute for Bioinformatics and Medical Informatics (IBMI)](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/institute/)
+  * Faculty of the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
 
 * Jan 2020 - Jan 2021: Senior Research and Development Engineer, PTC Vuforia, Zürich
 
@@ -47,7 +49,8 @@ redirect_from:
 
 * Programme Committee for Medical Imaging with Deep Learning (MIDL) conference 2023
 * Programme Chair for Medical Imaging with Deep Learning (MIDL) conference 2022
-* Co-organizer of the MICCAI workshop on Uncertainty for Safe Utilization of Reporting and Enhancing in medical image applications (UNSURE) 2019--2022
+* Co-organizer of the MICCAI workshop on Uncertainty for Safe Utilization of Reporting and Enhancing in medical image applications (UNSURE) 2019--2023
+* Co-organizer of the MICCAI workshop on AI for Treatment Response Assessment and Prediction (AI4Treat) 2023
 
 ## Other services and review activities 
 
