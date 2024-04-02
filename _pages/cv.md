@@ -11,19 +11,19 @@ redirect_from:
 
 ## Work experience
 
-* Feb 2024 - present: Assistant Professor Health Data Science, University of Lucerne, Switzerland
+* **Feb 2024 - present**: Assistant Professor Health Data Science, University of Lucerne, Switzerland
   * Member of the [Faculty of Health Sciences and Medicine](https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/), University of Lucerne
 
-* Feb 2021 - present: Independent Research Group Leader, University of Tübingen, Germany
+* **Feb 2021 - present**: Independent Research Group Leader, University of Tübingen, Germany
   * Full member of the [Cluster of Excellence Machine Learning: New Perspectives for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
   * Full member of the [Institute for Bioinformatics and Medical Informatics (IBMI)](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/institute/)
   * Faculty of the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
 
-* Jan 2020 - Jan 2021: Senior Research and Development Engineer, PTC Vuforia, Zürich
+* **Jan 2020 - Jan 2021**: Senior Research and Development Engineer, PTC Vuforia, Zürich
 
-* Jan 2017 - Oct 2019: Postdoctoral fellow (ETH Fellows) in machine learning for medical image analysis, ETH Zürich, Switzerland
+* **Jan 2017 - Oct 2019**: Postdoctoral fellow (ETH Fellows) in machine learning for medical image analysis, ETH Zürich, Switzerland
 
-* Aug 2015 - Dec 2016: Postdoctoral researcher in machine learning for medical image analysis, Imperial College London, UK
+* **Aug 2015 - Dec 2016**: Postdoctoral researcher in machine learning for medical image analysis, Imperial College London, UK
 
 ## Education
 
