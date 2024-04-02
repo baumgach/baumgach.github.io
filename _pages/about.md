@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am leading the independent research group for [Machine Learning in Medical Image Analysis](https://mlmia-unitue.de)
-at the [University of Tübingen](https://uni-tuebingen.de/en/university/) as part of the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/).
+I am Assistant Professor for Health Data Science at the [University of Lucerne](https://www.unilu.ch), Switzerland. I am leading the research group for [Machine Learning in Medical Image Analysis](https://mlmia-unitue.de)
+which is jointly hosted at the [Faculty of Health Sciences and Medicine](https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/) at the University of Lucerne and the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the [University of Tübingen](https://uni-tuebingen.de/en/university/), Germany.
 
 **Please check out our [group website](https://mlmia-unitue.de) for the most up-to-date information!**
 
@@ -34,10 +34,10 @@ My research focuses on developing machine learning methodologies that bridge the
 
 Short Bio
 ======
-Before joining the University of Tübingen, I was working in a senior research engineering role at [PTC Vuforia](https://www.ptc.com/en/products/vuforia), where I focused on research and development of machine learning technology for augmented reality applications. Prior to this, I was a Post-doc at the [Biomedical Image Computing Group](https://bmic.ee.ethz.ch/) at ETH Zürich working with [Prof. Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and before in the [Biomedical Image Analysis Lab](https://biomedia.doc.ic.ac.uk/) with [Prof. Daniel Rueckert](http://wp.doc.ic.ac.uk/dr/). I completed my PhD in 2016 under the joint supervision of [Prof. Andy King](https://www.kcl.ac.uk/people/andrew-king) and Prof. Daniel Rueckert at King's College London in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) ([link to PhD thesis](files/phd_thesis.pdf)). I obtained my Master's degree in Biomedical Engineering and my Bachelor's degree in Information Technology and Electrical Engineering from ETH Zürich.
+Since February 2024 I am an Assistant Professor in Health Data Science at the University of Lucerne. From February 2021 I was leading an indepenent research group at the University of Tübingen, a position which I still maintain. Before that I was working in a senior research engineering role at [PTC Vuforia](https://www.ptc.com/en/products/vuforia), where I focused on research and development of machine learning technology for augmented reality applications. Prior to this, I was a Post-doc at the [Biomedical Image Computing Group](https://bmic.ee.ethz.ch/) at ETH Zürich working with [Prof. Ender Konukoglu](http://people.ee.ethz.ch/~kender/), and before in the [Biomedical Image Analysis Lab](https://biomedia.doc.ic.ac.uk/) with [Prof. Daniel Rueckert](http://wp.doc.ic.ac.uk/dr/). I completed my PhD in 2016 under the joint supervision of [Prof. Andy King](https://www.kcl.ac.uk/people/andrew-king) and Prof. Daniel Rueckert at King's College London in the [School of Biomedical Engineering & Imaging Sciences](https://www.kcl.ac.uk/bmeis) ([link to PhD thesis](files/phd_thesis.pdf)). I obtained my Master's degree in Biomedical Engineering and my Bachelor's degree in Information Technology and Electrical Engineering from ETH Zürich.
 
-News
+<!-- News
 ======
  * April 2023: PhD student Susu Sun wins the [best poster jury award](https://www.mlmia-unitue.de/news/2023-03-24-susu-bias-award/) at the Bern Interpretable AI Symposium (BIAS)!
  * September 2022: MLMIA team wins [MICCAI K2S MR reconstruction and segmentation challenge](https://www.mlmia-unitue.de/news/2022-11-03-recon-challenge-win/)! 
- * July 2022: After [MIDL 2022](https://2022.midl.io/) in Zürich, I will be again serving as Program Committee Member for [MIDL 2023](https://2023.midl.io/)
+ * July 2022: After [MIDL 2022](https://2022.midl.io/) in Zürich, I will be again serving as Program Committee Member for [MIDL 2023](https://2023.midl.io/) -->

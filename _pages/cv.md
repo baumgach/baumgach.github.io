@@ -11,8 +11,10 @@ redirect_from:
 
 ## Work experience
 
+* Feb 2024 - present: Assistant Professor Health Data Science, University of Lucerne, Switzerland
+  * Member of the Faculty of Health Sciences and Medicine, University of Lucerne
+
 * Feb 2021 - present: Independent Research Group Leader, University of Tübingen, Germany
-  * Principal investigator of the [Machine Learning in Medical Image Analysis group](https://www.mlmia-unitue.de)
   * Full member of the [Cluster of Excellence Machine Learning: New Perspectives for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
   * Full member of the [Institute for Bioinformatics and Medical Informatics (IBMI)](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/interfaculty-facilities/ibmi/institute/)
   * Faculty of the [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](https://imprs.is.mpg.de/).
