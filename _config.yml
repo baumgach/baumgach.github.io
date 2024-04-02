@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Christian F. Baumgartner"
   avatar           : "me_new.jpg"
-  bio              : "Independent Research Group Leader @ University of Tübingen, Germany"
-  location         : "Tübingen"
+  bio              : "Assistant Professor @ University of Lucerne, Switzerland"
+  location         : "Lucerne"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ch/citations?user=9MSArZUAAAAJ&hl=en"
-  email            : "christian.baumgartner@uni-tuebingen.de"
+  email            : "christian.baumgartner@unilu.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
