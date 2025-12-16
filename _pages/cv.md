@@ -13,6 +13,7 @@ redirect_from:
 
 * **Feb 2024 - present**: Assistant Professor Health Data Science, University of Lucerne, Switzerland
   * Member of the [Faculty of Health Sciences and Medicine](https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/), University of Lucerne
+  * Member of [ellis](https://ellis.eu/person/christian-baumgartner) (European Laboratory for Learning and Intelligent Systems)
 
 * **Feb 2021 - present**: Independent Research Group Leader, University of Tübingen, Germany
   * Full member of the [Cluster of Excellence Machine Learning: New Perspectives for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/)
