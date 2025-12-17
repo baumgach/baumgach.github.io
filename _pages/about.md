@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor for Health Data Science in the [Faculty of Health Sciences and Medicine](https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/) at the [University of Lucerne](https://www.unilu.ch), where I am leading the research group for [Medical AI](https://mlmia-unitue.de). Prior to joining the University of Lucerne, I was an independent research group leader in the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the [University of Tübingen](https://uni-tuebingen.de/en/university/), and part of my group remains in Tübingen. 
+I am an Assistant Professor for Health Data Science in the [Faculty of Health Sciences and Medicine](https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/) at the [University of Lucerne](https://www.unilu.ch), where I am leading the research group for [Medical AI](https://baumgach.github.io/mia-website/). Prior to joining the University of Lucerne, I was an independent research group leader in the [Cluster of Excellence - Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the [University of Tübingen](https://uni-tuebingen.de/en/university/), and part of my group remains in Tübingen. 
 
-**Please check out our [group website](https://mlmia-unitue.de) for the most up-to-date information!**
+**Please also check out our [group website](https://baumgach.github.io/mia-website/) for more information!**
 
 My main research focus is on developing and applying ML technology for the analysis of healthcare data. My main research goals are to identify which criteria ML needs to fulfill to be clinically useful and solve the ML problems that prevent us from getting there. Specifically, my group is working on problems like learning from small datasets, robustness and uncertainty quantification, interpretable ML, and generative modelling of large medical datasets. 
 

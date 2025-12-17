@@ -8,7 +8,7 @@ redirect_from:
 
 <!-- ## Academic Job Opportunities -->
 
-For up-to-date job offers have a look at our [group website](https://www.mlmia-unitue.de/#jobs).
+For up-to-date job offers have a look at our [group website](https://baumgach.github.io/mia-website/).
 
 <!-- The [Machine Learning in Medical Image Analysis (MLMIA)](https://mlmia-unitue.de) group is currently inviting applications for the following positions:
 
