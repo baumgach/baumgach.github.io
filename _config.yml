@@ -73,9 +73,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" 
+  provider: "google-gtag" # Use "google-gtag" for G- IDs
   google:
-    tracking_id          : 'G-8Y5ED5J79T'
+    tracking_id: "G-8Y5ED5J79T" # This is your GA4 Measurement ID
+    anonymize_ip: true # Optional: Good for GDPR compliance
 
 
 # Site Author
